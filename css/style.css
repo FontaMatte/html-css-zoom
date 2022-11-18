@@ -33,7 +33,7 @@ body {
 /* REGOLE MAIN  */
 /* REGOLE SCREEN-CONTAINER  */
 main {
-    height: calc(100vh - 155px);
+    height: calc(100vh - 115px);
     overflow: auto;
 }
 
@@ -70,7 +70,7 @@ main {
 /* REGOLE MENU BOTTOM */
 .menu-bottom {
     height: 55px;
-    /* width: 100%; */
+    width: 100%;
     background-color: #272727;
     display: flex;
     justify-content: space-between;
